@@ -179,7 +179,7 @@ background: #fff;
 .product-d-purchase .btn{
     outline: none;
     border:none;
-    background: #ffd814;
+    background: #f7d116;
     width:100%;
     padding: 10px 0;
     margin-top:10px;
@@ -187,7 +187,7 @@ background: #fff;
     cursor:pointer;
 }
 .product-d-purchase .product-buy{
-    background:#ffa41c;
+    background:#ec9a1f;
 }
 footer{
     display: flex;

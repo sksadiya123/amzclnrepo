@@ -135,19 +135,3 @@ next_btn.addEventListener('click', (e)=>{
 //         }
 //     });
 // };
-// // ========= Product Slider Scroll Buttons =========
-// document.querySelectorAll('.slide-btn').forEach(button => {
-//   button.addEventListener('click', () => {
-//     const container = button.closest('.slider-container').querySelector('.products');
-//     const scrollAmount = 300;
-//     if (button.classList.contains('left')) {
-//       container.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
-//     } else {
-//       container.scrollBy({ left: scrollAmount, behavior: 'smooth' });
-//     }
-//   });
-// });
-
-
-// window.addEventListener('scroll', lazyLoad);
-// window.addEventListener('load', lazyLoad);
